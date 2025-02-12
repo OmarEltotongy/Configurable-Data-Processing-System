@@ -186,7 +186,7 @@ This will execute the program, read the configuration from `settings.txt`, and c
 
 ---
 
-## Extending the System
+## Extending Features to the System
 
 We can extend the system by adding new processor types. For example, if we want to add a new processor for handling "XML" data, you would:
 1. Add a new `XMLProcessor` class derived from `Processor`.
