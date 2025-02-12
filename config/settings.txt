@@ -1,0 +1,3 @@
+Processor.Options.Type=Text
+Processor.Options.Threshold=0.5
+Processor.Options.MaxRetries=3
